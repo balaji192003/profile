@@ -185,13 +185,13 @@ nav ul li a:hover::after{
     border-radius: 10px;
     display: block;
     transition: transform 0.5s;
-    margin-left: 300px;
+    margin-left: 40px;
     box-shadow: 2px 3px 5px yellowgreen;
 }
 .layer{
     width: 558px;
     height: 0;
-    margin-left: 270px;
+    margin-left: 20px;
     background: linear-gradient(rgba(0,0,0,0.6),crimson);
     border-radius: 10px;
     position: absolute;
